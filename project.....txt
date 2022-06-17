@@ -1,0 +1,14 @@
+Mobeix is a Tagit digital platform,which enables rapid creation of innovative mobile services.
+Across all the mobile platform,it has an inbuilt high performance with high availabilityy,failover,clustering and scalability,robust.
+Applications created using Mobeix are secure,high performance native apps which have platform specific UX aand take advantage  of
+device specific hardware and native APIs.
+
+
+ROLES & RESPOSIBILITIES
+
+
+*involved in shared req and response designed API document from JIRA stories.
+*worked on multithreading code and fixed few production related bugs.
+*interacted with front end and QA team to test the feature/bugs in their respective envionment.
+*Scrum calls with team
+
